@@ -1,5 +1,23 @@
 /* See LICENSE file for copyright and license details. */
 
+#define BLACK      "#12121f"
+#define RED        "#d95177"
+#define GREEN      "#7bdba6"
+#define YELLOW     "#fcf4a2"
+#define BLUE       "#759eea"
+#define MAGENTA    "#908cdb"
+#define CYAN       "#6be5e3"
+#define WHITE      "#d4d7ff"
+
+#define BOLD_BLACK      "#29293f"
+#define BOLD_RED        "#d54c73"
+#define BOLD_GREEN      "#78dca7"
+#define BOLD_YELLOW     "#fcf295"
+#define BOLD_BLUE       "#6d98e8"
+#define BOLD_MAGENTA    "#837dd7"
+#define BOLD_CYAN       "#65dedc"
+#define BOLD_WHITE      "#f4f7ff"
+
 /* appearance */
 static const unsigned int borderpx  = 3;        /* border pixel of windows */
 static const unsigned int snap      = 32;       /* snap pixel */
